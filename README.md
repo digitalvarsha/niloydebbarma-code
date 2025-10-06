@@ -106,7 +106,7 @@ I enjoy sharing what I learn and working with others. If you want to talk about 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=niloydebbarma-code&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niloydebbarma-code&theme=dark&count_private=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=niloydebbarma-code&theme=dark&count_private=true" alt="GitHub Streak Stats" />
 </p>
 
 ---
